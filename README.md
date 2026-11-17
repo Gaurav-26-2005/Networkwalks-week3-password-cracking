@@ -31,11 +31,11 @@ This repository documents the completion of Week 3 compulsory project modules fr
 
 ### **Lab Evidence (PM1)**
 * **CLI Extraction & Cracking Workflow:**
-  ![JTR Terminal Workflow](jtr-version-and-hash.jpg)
+  ![JTR Terminal Workflow](jtr-version-and-hash.png)
 
 * **Unlocked PDF & Flag Verification:**
   * **Flag Captured:** `nw{networkwalks_flag1_jtr_270521_1}`
-  ![Unlocked PDF](unlocked-pdf-flag.jpg)
+  ![Unlocked PDF](unlocked-pdf-flag.png)
 
 * **Johnny GUI Execution (100% Success):**
   ![Johnny GUI](johnny-gui-success.png)
@@ -57,7 +57,7 @@ This repository documents the completion of Week 3 compulsory project modules fr
   ![NW Hash Calculator](nw-hash-calculator.png)
 
 * **Password Cracked Success:**
-  ![NW Password Cracker](nw-password-cracker.png)
+  ![NW Password Cracker](nw-password-cracked.png)
 
 ---
 
@@ -65,4 +65,9 @@ This repository documents the completion of Week 3 compulsory project modules fr
 Both offline command-line tooling (John the Ripper) and automated web interfaces successfully compromised the target document in seconds using standard dictionary lists. This practical exercise demonstrates why weak, predictable credentials like `password1` pose severe security risks and highlights the critical need for complex, entropy-rich passphrases and multi-factor protection.
 
 ---
+## 👤 Author
+Gaurav Ravindra Chalke
+
+LinkedIn: https://www.linkedin.com/in/gaurav-chalke-a55060290/
+
 *Developed as part of the NetworkWalks Cybersecurity & Ethical Hacking training curriculum.*
